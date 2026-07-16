@@ -39,7 +39,5 @@ e esse é meu perfil!
   <p> Muitos dos códigos aqui foram feitos enquanto eu ainda estava no processo de aprendizado das linguagens. Então, podem ser vistos alguns erros e algoritmos não tão eficazes. Mas, mantendo esses códigos aqui, depois de algum tempo, consigo ver o quanto progredi no entendimento da linguagem. Qualquer ajuda ou dicas são bem vindas! </p>
 </div>
 
-- 🔭 Estou atualmente desenvolvendo um aplicativo em Flutter e outro com MIT APP INVENTOR
 - 📌 Eu moro em Novo Hamburgo, RS - Brasil
-- 📚 Tenho o objetivo de tornar a educação mais democrática no país
 - 🌱 Estou sempre em busca de novos conhecimentos 
